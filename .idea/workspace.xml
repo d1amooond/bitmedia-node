@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2fa4118-d3c1-4d68-b013-dbd488556bfe" name="Default Changelist" comment="" />
+    <list default="true" id="e2fa4118-d3c1-4d68-b013-dbd488556bfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/database/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/getCurrentPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/getCurrentPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/getCurrentUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/getCurrentUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/getUsers.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/getUsers.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +17,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Projects\bitmedia-node\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1ZyaEVvZoVPFmhkQ0c4C3OoB9ZQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +34,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bitmedia-react" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\bitmedia-node\database" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,7 +55,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585813676032</updated>
       <workItem from="1585813679282" duration="16567000" />
-      <workItem from="1585909924722" duration="2165000" />
+      <workItem from="1585909924722" duration="3633000" />
+      <workItem from="1586119128063" duration="617000" />
+      <workItem from="1586170366168" duration="12797000" />
     </task>
     <servers />
   </component>
@@ -42,10 +65,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585909950486">
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586176718950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585909950486" />
+    <state x="436" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586176718950" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586119836798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586119836798" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1585850159844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -56,7 +83,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/functions/getCurrentPage.js</url>
-          <line>29</line>
+          <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

@@ -2,6 +2,9 @@ const getCurrentPage = (users, users_statistic, page, elements) => {
 
 
     const pages = Math.ceil(users.length / elements);
+    if (page > pages) {
+        page = pages;
+    }
     const filterUsers = users.slice(page * elements - elements, page * elements);
 
     const pageData = filterUsers.map((el) => {

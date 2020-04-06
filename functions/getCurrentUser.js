@@ -1,4 +1,5 @@
 const getCurrentUser = (users, users_statistic, id, from, to) => {
+    console.log(from, to)
     from = new Date(from);
     to = new Date(to);
     let user;
